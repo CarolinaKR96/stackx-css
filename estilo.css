@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Sarabun:wght@300;700;800&display=swap');
+
+
+
+body {
+    background-color: rgb(206, 159, 233);
+    background-image: url(/img/ckweb.png);
+    height: 100vw;
+}
+  h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-size: 80px;
+    color: blueviolet;
+    
+  }
+  h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-style: normal;
+    font-size: 30px;
+    color: blueviolet;
+  }
+  p {
+    font-family: 'Sarabun', sans-serif;
+    font-size: 18px;
+    border-style:initial;
+  }
+  footer{
+    font-family: 'Sarabun', sans-serif;
+    font-size: 20px;
+     
+  }
